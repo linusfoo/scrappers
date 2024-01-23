@@ -1,5 +1,5 @@
 # scrappers
-Youtube, reddit and hardwarezone scrapper
+Youtube, reddit, hardwarezone, Facebook, Instagram scrapper
 
 
 ## Youtube:
@@ -9,3 +9,10 @@ Youtube, reddit and hardwarezone scrapper
 
 ## Reddit
 1. get credentials (client_id, client_secret, user_agent) and insert into line 13 of reddit-scrapper.py
+
+## Facebook
+1. Uses Selenium for images
+2. Uses YoutubeDL for videos
+
+## Instagram
+1. Uses Selenium
